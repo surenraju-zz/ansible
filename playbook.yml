@@ -1,0 +1,6 @@
+--- 
+- 
+  hosts: "servers:clients"
+  name: "Configure servers and clients"
+  roles:
+  - iot
